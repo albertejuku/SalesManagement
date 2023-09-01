@@ -1,8 +1,8 @@
-module com.mgmt.salesmanagement {
+module com.mgmt {
     requires javafx.controls;
     requires javafx.fxml;
-            
-                            
-    opens com.mgmt.salesmanagement to javafx.fxml;
-    exports com.mgmt.salesmanagement;
+
+
+    opens com.mgmt to javafx.fxml;
+    exports com.mgmt;
 }

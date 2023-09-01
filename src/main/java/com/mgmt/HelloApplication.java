@@ -1,4 +1,4 @@
-package com.mgmt.salesmanagement;
+package com.mgmt;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

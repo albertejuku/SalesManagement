@@ -1,4 +1,4 @@
-package com.mgmt.salesmanagement;
+package com.mgmt;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
